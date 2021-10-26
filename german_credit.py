@@ -10,7 +10,6 @@ from aequitas.preprocessing import preprocess_input_df
 from aequitas.group import Group
 from aequitas.bias import Bias 
 
-#Adding a line to see if it makes it to the snapshot
 
 # modelop.init
 def begin():
